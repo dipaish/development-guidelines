@@ -11,7 +11,7 @@ This is a high-level documentation containing a collection of best practices, co
 
 See [Pages](https://s-group-dev.github.io/development-guidelines/) version of this content.
 
-## Motivation
+## Motivation.
 
 Following these guidelines promotes good adoption of our way of implementing software, reduces friction between teams and answers to many commonly asked questions. By implementing this standard it also helps to improve our software development quality and speed and share know-how.
 
